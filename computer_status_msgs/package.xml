@@ -1,0 +1,19 @@
+<package format="3">
+  <name>computer_status_msgs</name>
+  <version>2.0.0</version>
+  <description>Messages definitions for representing computer's hardware state, such as battery information, GPU, some miscellaneous sensors. Format is in ROS. Originally developed at <a href="https://github.com/PR2/pr2_common/tree/e64f0362b7bff0f4d1d9916f805cf91ad561b439/pr2_msgs">pr2_common repository</a></description>
+  <maintainer email="130s@2000.jukuin.keio.ac.jp">Isaac I.Y. Saito</maintainer>
+  <license>BSD</license>
+  <url type="website">http://ros.org/wiki/computer_status_msgs</url>
+  <url type="bugtracker">https://github.com/130s/computer_status_msgs/issues</url>
+
+  <author>Eric Berger and many others</author>
+  <author>Austin Hendrix</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>message_generation</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <exec_depend>message_runtime</exec_depend>
+
+</package>
