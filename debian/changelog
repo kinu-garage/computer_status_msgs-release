@@ -1,0 +1,66 @@
+ros-kinetic-computer-status-msgs (2.0.0-2xenial) xenial; urgency=high
+
+  * Moved out of PR2 repo family to a new repo.
+  * Remove outdated msgs, 2) Remove irrelevant msg and a .srv #1 <https://github.com/130s/computer_status_msgs/issues/1> based on the feedback https://github.com/PR2/pr2_common/issues/286#issuecomment-695975839
+  * Contributors: Isaac I.Y. Saito
+
+ -- Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>  Sun, 20 Sep 2020 04:00:00 -0000
+
+ros-kinetic-computer-status-msgs (1.13.0-2xenial) xenial; urgency=high
+
+
+
+ -- Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>  Tue, 11 Aug 2020 04:00:00 -0000
+
+ros-kinetic-computer-status-msgs (1.12.4-2xenial) xenial; urgency=high
+
+
+
+ -- Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>  Wed, 24 Apr 2019 04:00:00 -0000
+
+ros-kinetic-computer-status-msgs (1.12.3-2xenial) xenial; urgency=high
+
+
+
+ -- Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>  Mon, 10 Sep 2018 04:00:00 -0000
+
+ros-kinetic-computer-status-msgs (1.12.2-2xenial) xenial; urgency=high
+
+
+
+ -- Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>  Wed, 18 Apr 2018 04:00:00 -0000
+
+ros-kinetic-computer-status-msgs (1.12.1-2xenial) xenial; urgency=high
+
+  * Merge pull request #267 <https://github.com/pr2/pr2_common/issues/267> from k-okada/maintainer
+    change maintainer to ROS orphaned package maintainer
+  * change maintainer to ROS orphaned package maintainer
+  * Contributors: Kei Okada
+
+ -- Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>  Tue, 13 Feb 2018 05:00:00 -0000
+
+ros-kinetic-computer-status-msgs (1.11.9-2xenial) xenial; urgency=high
+
+
+
+ -- Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>  Tue, 10 Feb 2015 05:00:00 -0000
+
+ros-kinetic-computer-status-msgs (1.11.8-2xenial) xenial; urgency=high
+
+
+
+ -- Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>  Tue, 13 Jan 2015 05:00:00 -0000
+
+ros-kinetic-computer-status-msgs (1.11.7-2xenial) xenial; urgency=high
+
+  * Fixed changelogs manually
+  * Merge conflicts
+  * Changelogs
+  * Changelogs
+  * Changelogs
+  * Changelogs
+  * Contributors: TheDash, dash
+
+ -- Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>  Mon, 12 Jan 2015 05:00:00 -0000
+
+
