@@ -1,0 +1,13 @@
+Source: ros-melodic-computer-status-msgs
+Section: misc
+Priority: optional
+Maintainer: Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-std-msgs
+Homepage: http://ros.org/wiki/computer_status_msgs
+Standards-Version: 3.9.2
+
+Package: ros-melodic-computer-status-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-message-runtime, ros-melodic-std-msgs
+Description: Messages definitions for representing computer's hardware state, such as battery information, GPU, some miscellaneous sensors.
+ Format is in ROS. Originally developed at pr2_common repository
