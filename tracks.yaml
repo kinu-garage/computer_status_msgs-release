@@ -47,7 +47,7 @@ tracks:
     release_tag: :{version}
     ros_distro: melodic
     vcs_type: git
-    vcs_uri: https://github.com/130s/computer_status_msgs
+    vcs_uri: https://github.com/plusone-robotics/computer_status_msgs
     version: :{auto}
   noetic:
     actions:
